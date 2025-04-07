@@ -32,7 +32,7 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation</h2> 
@@ -44,7 +44,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 </div>
 
   <p>
-    <a href="https://cvpr.thecvf.com/virtual/2025/poster/34371">paper</a>
+    <a href="https://cvpr.thecvf.com/virtual/2025/poster/34371">Paper</a>
   </p>
 
 </div>
@@ -52,7 +52,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\custom.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\custom.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization</h2> 
@@ -65,7 +65,26 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 </div>
 
   <p>
-    <a href="https://arxiv.org/pdf/2409.05606">paper</a> | <a href="https://yihao-meng.github.io/AniDoc_demo/">project</a> 
+    <a href="https://arxiv.org/pdf/2409.05606">Paper</a> | <a href="https://cn-makers.github.io/CustomContrast/">Project</a>  | <a href="https://www.bilibili.com/video/BV1bxw1e6EwL/?share_source=copy_web&vd_source=d38453ce49fad38e14b696404ae655db">Video</a> 
+  </p>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2025</div><img src='images\skin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> Skin-Adapter: Fine-Grained Skin-Color Preservation for Text-to-Image Generation</h2> 
+
+Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
+
+
+
+<div class="periodical"><em>MMM</em>
+</div>
+
+  <p>
+    <a href="https://link.springer.com/chapter/10.1007/978-981-96-2071-5_2">paper</a> | <a href="https://www.bilibili.com/video/BV1i5CrYoEut/?share_source=copy_web&vd_source=d38453ce49fad38e14b696404ae655db">video</a> 
   </p>
 
 </div>
