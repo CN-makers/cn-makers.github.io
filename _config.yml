@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chen Nan's Homepage"
-description              : "Master student in USTC"
-repository               : "https://cn-makers.github.io/"
+title                    : "Chen Nan"
+description              : "USTC"
+#repository               : "https://cn-makers.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
