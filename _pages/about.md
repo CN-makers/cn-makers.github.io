@@ -48,9 +48,9 @@ My research interests lie in controllable video generation and controllable imag
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Selected Honors and Awards
-- *2023* RedBird PhD Award of HKUST
-- *2023.4* <a href='https://cerg1.ugc.edu.hk/hkpfs/index.html'>Hong Kong PhD Fellowship Scheme(HKPFS)<a> 
-- *2022* First Prize in China Robot Competition 
+- *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599)—Main Contributor Superized by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
+- *2022* First Prize in China Robot Competition (First Contributor)
+- *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a> —Equivalent to National Scholarship in XJTU
 
 # 📖 Educations
 <strong><big>Education</big></strong>
