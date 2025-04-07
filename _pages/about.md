@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Nan Chen (Chen), currently a second year Master student in USTC-CMI lab, at the the School of Cyber Science of University of Science and Technology of China (USTC), supervised by <a href='https://faculty.ustc.edu.cn/maozhendong'>Prof. Zhendong Mao</a>. Before joining USTC, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023.
+Nice to meet you! I am Nan Chen (陈南), currently a second year Master student in USTC-CMI lab, at the the School of Cyber Science of University of Science and Technology of China (USTC), supervised by <a href='https://faculty.ustc.edu.cn/maozhendong'>Prof. Zhendong Mao</a>. Before joining USTC, I obtained my B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University in 2023.
 
 My research interests lie in controllable video generation and controllable image generation.
 
@@ -26,7 +26,7 @@ My research interests lie in controllable video generation and controllable imag
 # 🔥 News
 - *Feb 27, 2025*: &nbsp;🎉🎉 Our paper Dynamic Diffusion Transformer for Accurate Image Generation  has  been accepted by CVPR 2025!
 - *Dec 10, 2024*: &nbsp;🎉🎉 Our paper customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization has  been accepted by AAAI 2025!
-- *Aug, 2023*: I started my Postgraduate journey!
+- *Aug, 2023*: I started my postgraduate journey!
 - *Jun, 2023*: I graduated from XJTU!
 
 
@@ -106,6 +106,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
   Bachelor in Artificial Intelligence (Honor class in Qian Xuesen Honors College)
 
+  <!--Advisor: <a href='https://gr.xjtu.edu.cn/web/pingwei'>Prof. Ping Wei</a>-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
