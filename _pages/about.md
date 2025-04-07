@@ -33,22 +33,22 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[D2iT: Dynamic Diffusion Transformer for Accurate Image Generation](https://cvpr.thecvf.com/virtual/2025/poster/34371)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Selected Honors and Awards
-- *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599)—Main Contributor Superized by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
+- *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599), mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
 - *2022* First Prize in China Robot Competition (First Contributor)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a> —Equivalent to National Scholarship in XJTU
 
