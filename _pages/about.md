@@ -36,17 +36,35 @@ My research interests lie in controllable video generation and controllable imag
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation](https://cvpr.thecvf.com/virtual/2025/poster/34371)
+<h2> D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation</h2> 
 
 Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
 
+<div class="periodical"><em>CVPR 2025</em>
+</div>
+
+  <p>
+    <a href="https://cvpr.thecvf.com/virtual/2025/poster/34371">paper</a>
+  </p>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization](https://arxiv.org/pdf/2409.05606)
+<h2> D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation</h2> 
 
 **Nan Chen**, Mengqi Huang, Zhuowei Chen, Yang Zheng, Lei Zhang, Zhendong Mao
+
+
+
+<div class="periodical"><em>AAAI 2025</em>
+</div>
+
+  <p>
+    <a href="customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization">paper</a> | <a href="https://yihao-meng.github.io/AniDoc_demo/">project</a> 
+  </p>
+
+
 
 
 # 🎖 Selected Honors and Awards
