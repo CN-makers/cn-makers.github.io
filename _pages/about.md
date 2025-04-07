@@ -32,7 +32,7 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation</h2> 
@@ -52,7 +52,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\custom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\custom.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization</h2> 
