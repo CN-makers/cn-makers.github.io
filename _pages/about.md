@@ -52,7 +52,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\custom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization</h2> 
@@ -75,7 +75,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 # 🎖 Selected Honors and Awards
 - *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599), mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
 - *2022* First Prize in China Robot Competition (First Contributor)
-- *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a> —Equivalent to National Scholarship in XJTU
+- *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a>  —Equivalent to National Scholarship in XJTU
 
 # 📖 Educations
 <strong><big>Education</big></strong>
