@@ -36,15 +36,17 @@ My research interests lie in controllable video generation and controllable imag
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[D2iT: Dynamic Diffusion Transformer for Accurate Image Generation](https://cvpr.thecvf.com/virtual/2025/poster/34371)
+[D<sup>2</sup>iT: Dynamic Diffusion Transformer for Accurate Image Generation](https://cvpr.thecvf.com/virtual/2025/poster/34371)
 
 Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization](https://arxiv.org/pdf/2409.05606)
+
+**Nan Chen**, Mengqi Huang, Zhuowei Chen, Yang Zheng, Lei Zhang, Zhendong Mao
 
 
 # 🎖 Selected Honors and Awards
