@@ -71,7 +71,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2025</div><img src='images\skin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2025 Oral</div><img src='images\skin.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> Skin-Adapter: Fine-Grained Skin-Color Preservation for Text-to-Image Generation</h2> 
@@ -80,7 +80,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
 
 
-<div class="periodical"><em>MMM</em>
+<div class="periodical"><em>MMM 2025 Oral (Top 10%)</em>
 </div>
 
   <p>
