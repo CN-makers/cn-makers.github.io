@@ -110,8 +110,9 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
 # 💻 Extracurricular Activities
 - *2023.10 - now*, <strong><a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0">BiliBili Blogger (NobleAI Channel)</a></strong>
-
-
+  
+  First Founder
+  
   4,800 followers and 100k views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
