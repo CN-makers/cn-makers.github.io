@@ -117,5 +117,8 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
 - *2021.5 - 2022.7*, <strong> XJTU RoboCUP Robot Club Sole Chairman. </strong> 
 
-- *2021.5 - 2022.7*, <strong> National University of Singapore: School Of Computing Summer Workshop Participant. </strong> 
-  First Contributor  <strong>Third place </strong>  in the SWS3026 Visual Computing track and A-grade performance.
+- *2021.5 - 2022.7*, <strong> National University of Singapore: School Of Computing. </strong> 
+  
+  Summer Workshop First Contributor  
+  
+  <strong>Third place </strong>  in the SWS3026 Visual Computing track and A-grade performance.
