@@ -113,7 +113,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
   
   <strong>First Founder </strong> of NobleAI Discussion Group
 
-  4,800 followers and 100k views.
+  4,800 followers and 100,000 views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
 
