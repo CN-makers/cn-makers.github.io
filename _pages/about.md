@@ -93,7 +93,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
 # 🎖 Selected Honors and Awards
 - *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599), mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
-- *2022* First Prize in China Robot Competition (First Contributor)
+- *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a>  —Equivalent to National Scholarship in XJTU
 
 # 📖 Educations
@@ -111,8 +111,8 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 # 💻 Extracurricular Activities
 - *2023.10 - now*, <strong><a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0">BiliBili Blogger (NobleAI Channel)</a></strong>
   
-  First Founder
-  
+  <strong>First Founder </strong> of NobleAI Discussion Group
+
   4,800 followers and 100k views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
