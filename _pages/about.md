@@ -65,7 +65,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 </div>
 
   <p>
-    <a href="https://arxiv.org/pdf/2409.05606">Paper</a> | <a href="https://cn-makers.github.io/CustomContrast/">Project</a>  | <a href="https://www.bilibili.com/video/BV1bxw1e6EwL/?share_source=copy_web&vd_source=d38453ce49fad38e14b696404ae655db">Video</a> 
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32210">Paper</a> | <a href="https://cn-makers.github.io/CustomContrast/">Project</a>  | <a href="https://www.bilibili.com/video/BV1bxw1e6EwL/?share_source=copy_web&vd_source=d38453ce49fad38e14b696404ae655db">Video</a> 
   </p>
 
 </div>
