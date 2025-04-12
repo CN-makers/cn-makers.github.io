@@ -97,7 +97,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a>  —Equivalent to National Scholarship in XJTU
 
 # 📖 Educations
-<strong><big>Education</big></strong>
+
 - <strong>*2023.8 - now*, University of Science and Technology of China (USTC)</strong>.
 
   Master in Cyberspace Security    Advisor: <a href='https://faculty.ustc.edu.cn/maozhendong'>Prof. Zhendong Mao</a>
@@ -108,5 +108,14 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
   <!--Advisor: <a href='https://gr.xjtu.edu.cn/web/pingwei'>Prof. Ping Wei</a>-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Extracurricular Activities
+- *2023.10 - now*, <strong> <a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0"></a> BiliBili Blogger (NobleAI Channel) First Founder </strong> 
+
+  4,800 followers and 100k views.
+
+- *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
+
+- *2021.5 - 2022.7*, <strong> XJTU RoboCUP Robot Club Sole Chairman. </strong> 
+
+- *2021.5 - 2022.7*, <strong> National University of Singapore: School Of Computing Summer Workshop Participant. </strong> 
+  First Contributor  <strong>Third place </strong>  in the SWS3026 Visual Computing track and A-grade performance.
