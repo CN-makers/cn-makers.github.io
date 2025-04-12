@@ -109,7 +109,8 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
   <!--Advisor: <a href='https://gr.xjtu.edu.cn/web/pingwei'>Prof. Ping Wei</a>-->
 
 # 💻 Extracurricular Activities
-- *2023.10 - now*, <strong> <a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0"></a> BiliBili Blogger (NobleAI Channel) First Founder </strong> 
+- *2023.10 - now*, <strong><a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0">BiliBili Blogger (NobleAI Channel)</a></strong>
+
 
   4,800 followers and 100k views.
 
