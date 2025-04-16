@@ -44,7 +44,7 @@ Weinan Jia, Mengqi Huang, **Nan Chen**, Lei Zhang, Zhendong Mao
 </div>
 
   <p>
-    <a href="https://cvpr.thecvf.com/virtual/2025/poster/34371">Paper</a>
+    <a href="https://arxiv.org/pdf/2504.09454">Paper</a>
   </p>
 
 </div>
