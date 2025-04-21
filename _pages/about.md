@@ -25,13 +25,13 @@ My research interests lie in controllable video generation and controllable imag
 
 # 🔥 News
 
-- *Jun, 2025*: I will go to Zhuhai, Guangdong Province to attend the 2025 VASLE  (My favorite top Chinese conference)!
+- *Jun, 2025*: &nbsp ☺☺ I will go to Zhuhai, Guangdong Province to attend the 2025 VASLE  (My favorite top Chinese conference)!
 - *Feb 27, 2025*: &nbsp;🎉🎉 Our paper Dynamic Diffusion Transformer for Accurate Image Generation  has  been accepted by CVPR 2025!
 - *Dec 10, 2024*: &nbsp;🎉🎉 Our paper customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization has  been accepted by AAAI 2025!
-- *Mar, 2024*: I went to Chongqing to attend the 2024 VASLE  (My favorite top Chinese conference)!
+- *Mar, 2024*: &nbsp ☺☺ I went to Chongqing to attend the 2024 VASLE  (My favorite top Chinese conference)!
 - *Aug, 2023*: I started my postgraduate journey!
 - *Jun, 2023*: I graduated from XJTU!
-- *Jun, 2023*: I went to Wuxi, Jiangsu Province,  to attend the 2023 VASLE (My favorite top Chinese conference)!
+- *Jun, 2023*: &nbsp ☺☺ I went to Wuxi, Jiangsu Province,  to attend the 2023 VASLE (My favorite top Chinese conference)!
 
 
 # 📝 Publications 
