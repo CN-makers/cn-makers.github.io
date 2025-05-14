@@ -36,7 +36,7 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2> 
