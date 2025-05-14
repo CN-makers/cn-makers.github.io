@@ -36,22 +36,22 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2> 
 
 Yiyang Zhang, **Nan Chen**
 
-<!-- <div class="periodical"><em>CVPR 2025</em>
+<div class="periodical"><em>ACL 2025 Main</em>
 </div>
 
   <p>
-    <a href="https://arxiv.org/pdf/2504.09454">Paper</a>
+    <a href="https://arxiv.org/pdf/">Paper</a>
   </p>
 
 </div>
-</div> -->
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="80%"></div></div>
