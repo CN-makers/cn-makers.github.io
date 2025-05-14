@@ -24,7 +24,7 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 🔥 News
-
+- *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer," accepted by ACL **Main**!
 - *Jun, 2025*: &nbsp; 🥳🥳 I will go to Zhuhai, Guangdong Province to attend the VALSE 2025!
 - *Feb 27, 2025*: &nbsp;🎉🎉 Our paper Dynamic Diffusion Transformer for Accurate Image Generation  has  been accepted by CVPR 2025!
 - *Dec 10, 2024*: &nbsp;🎉🎉 Our paper customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization has  been accepted by AAAI 2025!
@@ -35,6 +35,24 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2> 
+
+Yiyang Zhang, **Nan Chen**
+
+<!-- <div class="periodical"><em>CVPR 2025</em>
+</div>
+
+  <p>
+    <a href="https://arxiv.org/pdf/2504.09454">Paper</a>
+  </p>
+
+</div>
+</div> -->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
