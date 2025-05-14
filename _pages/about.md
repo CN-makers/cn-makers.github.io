@@ -41,7 +41,7 @@ My research interests lie in controllable video generation and controllable imag
 
 <h2> PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2> 
 
-Yiyang Zhang, **Nan Chen**
+Yiyang Zhang (corresponding author), **Nan Chen (corresponding author)**
 
 <div class="periodical"><em>ACL 2025 Main</em>
 </div>
