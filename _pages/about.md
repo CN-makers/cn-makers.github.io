@@ -36,7 +36,7 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL **Main** 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Main 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer</h2> 
@@ -107,6 +107,26 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
   <p>
     <a href="https://link.springer.com/chapter/10.1007/978-981-96-2071-5_2">paper</a> | <a href="https://www.bilibili.com/video/BV1i5CrYoEut/?share_source=copy_web&vd_source=d38453ce49fad38e14b696404ae655db">video</a> 
+  </p>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images\skin.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models
+</h2> 
+
+Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
+
+
+
+<div class="periodical"><em>Arxiv</em>
+</div>
+
+  <p>
+    <a href="https://arxiv.org/abs/2505.06543">paper</a> 
   </p>
 
 </div>
