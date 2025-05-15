@@ -155,7 +155,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
   
   <strong>First Founder </strong> of NobleAI Discussion Group
 
-  5,000 followers and 110,000 views.
+  5,500 followers and 120,000 views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
 
