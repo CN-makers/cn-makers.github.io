@@ -34,7 +34,25 @@ My research interests lie in controllable video generation and controllable imag
 - *Jun, 2023*: &nbsp; 🥳🥳 I went to Wuxi, Jiangsu Province, to attend the VALSE 2023 (My favorite top Chinese conference)!
 
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting </div><img src='images\long_animation.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> LongAnimation: Long Animation Generation with Dynamic Global-Local Memory</h2> 
+
+ **Nan Chen**,  Mengqi Huang, Yihao Meng, Zhendong Mao
+
+<div class="periodical"><em>Submitting</em>
+</div>
+
+  <p>
+    <a href="https://cn-makers.github.io/long_animation_web/">Project</a>
+  </p>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Main 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
