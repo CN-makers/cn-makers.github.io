@@ -54,6 +54,23 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting </div><img src='images\pro3D.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing</h2> 
+
+ Yang Zheng,  Mengqi Huang, **Nan Chen**, Zhendong Mao
+
+<div class="periodical"><em>Submitting</em>
+</div>
+
+  <p>
+    <a href="https://shuoyueli4519.github.io/Pro3D-Editor/">Project </a>  | <a href="https://arxiv.org/pdf/2506.00512">Paper</a>
+  </p>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Main 2025</div><img src='images\acl2025.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
