@@ -171,7 +171,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 # 🎖 Selected Honors and Awards
 - *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize (2/599), mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
 - *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
-- *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii Comprehensive Development Scholarship <a>  —Equivalent to National Scholarship in XJTU
+- *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii (旷视) Comprehensive Development Scholarship <a> -Top 1%  —Equivalent to National Scholarship in XJTU
 
 # 📖 Educations
 
@@ -190,7 +190,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
   
   <strong>First Founder </strong> of NobleAI Discussion Group
 
-  5,500 followers and 120,000 views.
+  6,000 followers and 140,000 views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
 
