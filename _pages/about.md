@@ -24,7 +24,7 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 🔥 News
-- *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV!
+- *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
 - *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", accepted by ACL **Main**!
 - *Jun, 2025*: &nbsp; 🥳🥳 I will go to Zhuhai, Guangdong Province to attend the VALSE 2025!
 - *Feb 27, 2025*: &nbsp;🎉🎉 Our paper Dynamic Diffusion Transformer for Accurate Image Generation  has  been accepted by CVPR 2025!
@@ -37,14 +37,14 @@ My research interests lie in controllable video generation and controllable imag
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV </div><img src='images\long_animation.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\long_animation.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> LongAnimation: Long Animation Generation with Dynamic Global-Local Memory</h2> 
 
  **Nan Chen**,  Mengqi Huang, Yihao Meng, Zhendong Mao
 
-<div class="periodical"><em>iCCV</em>
+<div class="periodical"><em>iCCV 2025</em>
 </div>
 
   <p>
