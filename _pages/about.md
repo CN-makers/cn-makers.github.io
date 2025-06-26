@@ -158,11 +158,11 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 
 
-<div class="periodical"><em>Arxiv</em>
+<div class="periodical"><em>ACM MM Submitting</em>
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2505.06543">ACM MM Submitting</a> 
+    <a href="https://arxiv.org/abs/2505.06543">paper</a> 
   </p>
 
 </div>
