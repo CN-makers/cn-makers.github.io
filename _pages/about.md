@@ -148,7 +148,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images\word.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Submitting</div><img src='images\word.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models
@@ -162,7 +162,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 </div>
 
   <p>
-    <a href="https://arxiv.org/abs/2505.06543">paper</a> 
+    <a href="https://arxiv.org/abs/2505.06543">ACM MM Submitting</a> 
   </p>
 
 </div>
