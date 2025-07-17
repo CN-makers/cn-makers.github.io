@@ -159,7 +159,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 
 
-<div class="periodical"><em>ACM MM Submitting</em>
+<div class="periodical"><em>AAAI Submitting</em>
 </div>
 
   <p>
