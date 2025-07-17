@@ -48,7 +48,8 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
   <p>
-    <a href="https://cn-makers.github.io/long_animation_web/">Project</a> | <a href="https://huggingface.co/papers/2507.01945">Paper</a> | <a href="https://github.com/CN-makers/LongAnimation">Code</a> 
+    <a href="https://cn-makers.github.io/long_animation_web/">Project</a> | <a href="https://huggingface.co/papers/2507.01945">Paper</a> |  <a href="https://github.com/CN-makers/LongAnimation"><img src="https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
+
   </p>
 
 </div>
