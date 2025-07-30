@@ -84,7 +84,7 @@ Yiyang Zhang, **Nan Chen (corresponding author)**
 </div>
 
   <p>
-    <a href="https://arxiv.org/pdf/">Paper</a>
+    <a href="https://aclanthology.org/2025.acl-long.526/">Paper</a>
   </p>
 
 </div>
