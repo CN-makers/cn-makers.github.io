@@ -24,6 +24,7 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 🔥 News
+- *Sep, 2025*:  I joined ByteDance as a research intern.
 - *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
 - *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", accepted by ACL **Main**!
 - *Jun, 2025*: &nbsp; 🥳🥳 I will go to Zhuhai, Guangdong Province to attend the VALSE 2025!
@@ -175,7 +176,9 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 - *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii (旷视) Comprehensive Development Scholarship <a> -Top 1%  —Equivalent to National Scholarship in XJTU
 
-# 📖 Educations
+# 📖 Experience
+
+## Education
 
 - <strong>*2023.8 - now*, University of Science and Technology of China (USTC)</strong>.
 
@@ -183,9 +186,16 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
   
 - <strong>*2019.09 - 2023.06*, Xi'an Jiaotong University (XJTU)</strong>.
 
-  Bachelor in Artificial Intelligence (Honor class in Qian Xuesen Honors College)
+  Bachelor in Artificial Intelligence (Honor class in Qian Xuesen Honors College)  Advisor: <a href='https://gr.xjtu.edu.cn/web/pingwei'>Prof. Ping Wei
 
   <!--Advisor: <a href='https://gr.xjtu.edu.cn/web/pingwei'>Prof. Ping Wei</a>-->
+
+## Internship
+
+- <strong>*2025.9 - now*, Bytedance</strong>.
+
+  Research Intern.
+
 
 # 💻 Extracurricular Activities
 - *2023.10 - now*, <strong><a href="https://space.bilibili.com/3546595134015939?spm_id_from=333.1007.0.0">BiliBili Blogger (NobleAI Channel)</a></strong>
