@@ -64,7 +64,7 @@ My research interests lie in controllable video generation and controllable imag
 
  Yang Zheng,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
-<div class="periodical"><em>Submitting</em>
+<div class="periodical"><em>Nips Submitting</em>
 </div>
 
   <p>
@@ -85,11 +85,13 @@ Yiyang Zhang, **Nan Chen (corresponding author)**
 </div>
 
   <p>
-    <a href="https://aclanthology.org/2025.acl-long.526/">Paper</a>
+    <a href="https://aclanthology.org/2025.acl-long.526/">Paper</a> |  <a href="https://github.com/yiyangzhang-hz/PPT/tree/main"><img src="https://github.com/yiyangzhang-hz/PPT?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
   </p>
 
 </div>
 </div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images\camera_ready_jwn_cvpr2025_v2.png' alt="sym" width="80%"></div></div>
