@@ -24,7 +24,7 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 🔥 News
-- *Sep, 2025*:  I joined ByteDance as a research intern.
+- *Aug, 2025*:  I joined ByteDance as a research intern.
 - *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
 - *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", accepted by ACL **Main**!
 - *Jun, 2025*: &nbsp; 🥳🥳 I will go to Zhuhai, Guangdong Province to attend the VALSE 2025!
@@ -192,9 +192,9 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 ## Internship
 
-- <strong>*2025.9 - now*, ByteDance</strong>.
+- <strong>*2025.8 - now*, ByteDance</strong>.
 
-  Research Intern.
+  Research Intern guided by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a>.
 
 
 # 💻 Extracurricular Activities
