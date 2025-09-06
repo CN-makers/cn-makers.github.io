@@ -68,7 +68,7 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
   <p>
-    <a href="https://shuoyueli4519.github.io/Pro3D-Editor/">Project </a>  | <a href="https://arxiv.org/pdf/2506.00512">Paper</a>
+    <a href="https://shuoyueli4519.github.io/Pro3D-Editor/">Project </a>  | <a href="https://arxiv.org/pdf/2506.00512">Paper</a> | <a href="https://github.com/shuoyueli4519/Pro3D-Editor-Code">Code</a>
   </p>
 
 </div>
