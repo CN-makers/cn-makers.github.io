@@ -85,11 +85,13 @@ Yiyang Zhang, **Nan Chen (corresponding author)**
 </div>
 
   <p>
-    <a href="https://aclanthology.org/2025.acl-long.526/">Paper</a> |  <a href="https://github.com/yiyangzhang-hz/PPT/tree/main"><img src="https://github.com/yiyangzhang-hz/PPT?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
+    <a href="https://aclanthology.org/2025.acl-long.526/">Paper</a> |  <a href="https://github.com/yiyangzhang-hz/PPT/tree/main"><img src="https://img.shields.io/github/stars/yiyangzhang-hz/PPT?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
   </p>
 
 </div>
 </div>
+
+
 
 
 
