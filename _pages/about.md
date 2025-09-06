@@ -192,7 +192,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 ## Internship
 
-- <strong>*2025.9 - now*, Bytedance</strong>.
+- <strong>*2025.9 - now*, ByteDance</strong>.
 
   Research Intern.
 
@@ -202,7 +202,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
   
   <strong>First Founder </strong> of NobleAI Discussion Group
 
-  6,000 followers and 140,000 views.
+  6,500 followers and 160,000 views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
 
