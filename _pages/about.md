@@ -24,6 +24,8 @@ My research interests lie in controllable video generation and controllable imag
 
 
 # 🔥 News
+
+- *Sep 18, 2025*: &nbsp;🎉🎉 Our paper Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing has been accepted by NIPS 2025!
 - *Aug, 2025*:  I joined ByteDance as a research intern mentored by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a>.
 - *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
 - *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", accepted by ACL **Main**!
@@ -57,14 +59,14 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting </div><img src='images\pro3D.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NiPS</div><img src='images\pro3D.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <h2> Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing</h2> 
 
  Yang Zheng,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
-<div class="periodical"><em>Nips Submitting</em>
+<div class="periodical"><em>Nips</em>
 </div>
 
   <p>
