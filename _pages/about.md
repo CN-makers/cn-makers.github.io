@@ -66,7 +66,7 @@ My research interests lie in controllable video generation and controllable imag
 
  Yang Zheng,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
-<div class="periodical"><em>Nips</em>
+<div class="periodical"><em>Nips 2025 Main</em>
 </div>
 
   <p>
