@@ -77,7 +77,8 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 </div>
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS</div><img src='images\pro3D.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <h2> Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing</h2> 
 
