@@ -59,8 +59,25 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NiPS</div><img src='images\pro3D.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting</div><img src='images\MOGA.jpeg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+<h2> MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation</h2> 
+
+ Weinan Jia, Yuning Liu ,Mengqi Huang, Hualiang Wang, Binyuan Huang,  **Nan Chen**, Mu Liu, Jidong Jiang, Zhendong Mao
+
+<div class="periodical"><em>Submitting</em>
+</div>
+
+  <p>
+    <a href="https://shuoyueli4519.github.io/Pro3D-Editor/">Project </a>  | <a href="https://jiawn-creator.github.io/mixture-of-groups-attention/">Paper</a> | <a href="https://github.com/bytedance-fanqie-ai/MoGA">Code</a>
+  </p>
+
+</div>
+</div>
+
+
 
 <h2> Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing</h2> 
 
@@ -178,7 +195,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 
 # 🎖 Selected Honors and Awards
-- *2025* BYD Scholarship (20000 RMB) in USTC. <a href="https://www.bydglobal.com/sites/Satellite?c=BydArticle&cid=1617162581717&d=Touch&pagename=BYD_CN%2FBydArticle%2FCommon%2FArticleDetails" >
+- *2025* <a href="https://www.bydglobal.com/sites/Satellite?c=BydArticle&cid=1617162581717&d=Touch&pagename=BYD_CN%2FBydArticle%2FCommon%2FArticleDetails" > BYD Scholarship <a> (20000 RMB) in USTC. 
 - *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize, mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
 - *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii (旷视) Comprehensive Development Scholarship <a> -Top 1%  —Equivalent to National Scholarship in XJTU
