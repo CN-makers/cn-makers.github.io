@@ -71,7 +71,7 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
   <p>
-    <a href="https://shuoyueli4519.github.io/Pro3D-Editor/">Project </a>  | <a href="https://jiawn-creator.github.io/mixture-of-groups-attention/">Paper</a> | <a href="https://github.com/bytedance-fanqie-ai/MoGA">Code</a>
+    <a href="https://jiawn-creator.github.io/mixture-of-groups-attention/">Project </a>  | <a href="https://arxiv.org/pdf/2510.18692">Paper</a> | <a href="https://github.com/bytedance-fanqie-ai/MoGA">Code</a>
   </p>
 
 </div>
@@ -233,7 +233,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 - *2021.5 - 2022.7*, <strong> XJTU RoboCUP Robot Club Sole Chairman. </strong> 
 
-- *2021.5 - 2022.7*, <strong> National University of Singapore: School Of Computing. </strong> 
+- *2021.5 - 2021.7*, <strong> National University of Singapore: School Of Computing. </strong> 
   
   Summer Workshop First Contributor  
   
