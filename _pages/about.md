@@ -59,7 +59,7 @@ My research interests lie in controllable video generation and controllable imag
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting</div><img src='images\MOGA.jpeg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images\MOGA.jpeg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -67,7 +67,7 @@ My research interests lie in controllable video generation and controllable imag
 
  Weinan Jia, Yuning Liu ,Mengqi Huang, Hualiang Wang, Binyuan Huang,  **Nan Chen**, Mu Liu, Jidong Jiang, Zhendong Mao
 
-<div class="periodical"><em>Submitting</em>
+<div class="periodical"><em>ICLR 2026</em>
 </div>
 
   <p>
