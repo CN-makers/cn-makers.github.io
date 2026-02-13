@@ -25,7 +25,7 @@ My research interests lie in controllable video generation and controllable imag
 
 # 🔥 News
 
-- *Jan, 2026*: &nbsp;🎉🎉 I am honored as an outstanding graduate (TOP 10%) of USTC and an outstanding Graduate of Anhui Province (TOP 2%) in 2026!
+- *Jan, 2026*: &nbsp;🎉🎉 I am honored as an Outstanding Graduate (**TOP 10%**) of USTC and an Outstanding Graduate of Anhui Province (**TOP 2%**) in 2026!
 - *Sep 18, 2025*: &nbsp;🎉🎉 Our paper Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing has been accepted by NIPS 2025!
 - *Aug, 2025*:  I joined ByteDance as a research intern mentored by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a>.
 - *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
@@ -36,7 +36,6 @@ My research interests lie in controllable video generation and controllable imag
 - *Mar, 2024*: &nbsp; 🥳🥳 I went to Chongqing to attend the VALSE 2024!
 - *Aug, 2023*: &nbsp; 😎😎 I started my postgraduate journey!
 - *Jun, 2023*: &nbsp; 😎😎 I graduated from XJTU!
-- *Jun, 2023*: &nbsp; 🥳🥳 I went to Wuxi, Jiangsu Province, to attend the VALSE 2023 (My favorite top Chinese conference)!
 
 
 # 📝 Publications
@@ -197,7 +196,8 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 
 # 🎖 Selected Honors and Awards
-- *2025* <a href="https://www.bydglobal.com/sites/Satellite?c=BydArticle&cid=1617162581717&d=Touch&pagename=BYD_CN%2FBydArticle%2FCommon%2FArticleDetails" > BYD Scholarship <a> (20000 RMB) in USTC. 
+- *2026* Outstanding Graduate of Anhui Province (**TOP 2%**)
+- *2025* <a href="https://www.bydglobal.com/sites/Satellite?c=BydArticle&cid=1617162581717&d=Touch&pagename=BYD_CN%2FBydArticle%2FCommon%2FArticleDetails" > BYD Scholarship <a> (20000 RMB) in USTC (TOP 2%). 
 - *2023* The 2nd Greater Bay Area Algorithm Competition (T2I Track)—Second Prize, mentored by <a href='https://corleone-huang.github.io/'> Mengqi Huang <a>
 - *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii (旷视) Comprehensive Development Scholarship <a> -Top 1%  —Equivalent to National Scholarship in XJTU
