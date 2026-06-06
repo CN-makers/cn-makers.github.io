@@ -202,7 +202,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 
 
 # 🎖 Selected Honors and Awards
-- *2026* Outstanding Graduate of Anhui Province (**TOP 2%**)
+- *2026* Outstanding Graduate of Anhui Province (**TOP 1%**)
 - *2025* <a href="https://www.bydglobal.com/sites/Satellite?c=BydArticle&cid=1617162581717&d=Touch&pagename=BYD_CN%2FBydArticle%2FCommon%2FArticleDetails" > BYD Scholarship <a> (20000 RMB) in USTC (TOP 1%). 
 - *2022* First Prize in China Robot Competition (First Contributor and Group Leader)
 - *2021* <a href='https://iair.xjtu.edu.cn/info/1005/2131.htm'>Megvii (旷视) Comprehensive Development Scholarship <a> -Top 1%  —Equivalent to National Scholarship in XJTU
