@@ -41,6 +41,26 @@ My research interests lie in interactive world model controllable video generati
 
 # 📝 Publications
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitting</div><img src='images/DomainShuttle.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<h2> DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation</h2> 
+
+ **Nan Chen**,  **Yiyang Cai**, Rongchang Xie, Junwen Pan, Cheng Chen, Weinan Jia, Zhouwei Chen, Chang Liu, Zhenbang Sun, Wenhan Luo
+
+<div class="periodical"><em>Submitting</em>
+</div>
+
+  <p>
+    <a href="https://cn-makers.github.io/">Project</a> | <a href="https://cn-makers.github.io/">Paper</a> |  <a href="https://cn-makers.github.io/"><img src="https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
+
+  </p>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images\long_animation.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
