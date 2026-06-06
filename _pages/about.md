@@ -19,7 +19,7 @@ redirect_from:
 
 Nice to meet you! I am Nan Chen (陈南), currently a first year PHD student in C4G lab of HKUST, supervised by <a href='https://whluo.github.io/'>Prof. Wenhan Luo</a>. Before joining HKUST, I obtained my Master Degree in USTC and B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University.
 
-My research interests lie in interactive world model controllable video generation.
+My research interests lie in interactive world model and controllable video generation.
 
 
 
