@@ -19,12 +19,13 @@ redirect_from:
 
 Nice to meet you! I am Nan Chen (陈南), currently a first year PHD student in C4G lab of HKUST, supervised by <a href='https://whluo.github.io/'>Prof. Wenhan Luo</a>. Before joining HKUST, I obtained my Master Degree in USTC and B.S. degree in Artificial Intelligence (Honor class in Qian Xuesen College) from Xi'an Jiaotong University.
 
-My research interests lie in controllable video generation and controllable image generation.
+My research interests lie in interactive world model controllable video generation.
 
 
 
 # 🔥 News
 
+- *Jun, 2023*: &nbsp; 😎😎 I graduated from USTC!
 - *Jan, 2026*: &nbsp;🎉🎉 I am honored as and an Outstanding Graduate of Anhui Province (**TOP 2%**) and an Outstanding Graduate (**TOP 10%**) of USTC in 2026!
 - *Sep 18, 2025*: &nbsp;🎉🎉 Our paper Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing has been accepted by NIPS 2025!
 - *Aug, 2025*:  I joined ByteDance as a research intern mentored by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a>.
@@ -216,7 +217,7 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
   
   <strong>First Founder </strong> of NobleAI Discussion Group
 
-  7,000 followers and 180,000 views.
+  8,500 followers and 230,000 views.
 
 - *2023.3 - 2023.8*, <strong> Beijing Research Institute of USTC Research Assistant. </strong> 
 
