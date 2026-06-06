@@ -174,13 +174,6 @@ Zhuowei Chen,  Mengqi Huang, **Nan Chen**, Zhendong Mao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI Submitting</div><img src='images\word.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<h2> HDGlyph: A Hierarchical Disentangled Glyph-Based Framework for Long-Tail Text Rendering in Diffusion Models
-</h2> 
-
-Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 
 
@@ -199,7 +192,7 @@ Shuhan Zhuang,  Mengqi Huang, Fengyi Fu, **Nan Chen**, Bohan Lei, Zhendong Mao
 
 - <strong>*2026.06 - now*, Hong Kong University of Science and Technology (HKUST)</strong>.
 
-  Master in Cyberspace Security    Advisor: <a href='https://whluo.github.io/'>Prof. Wenhan Luo</a>
+  PHD in IIP    Advisor: <a href='https://whluo.github.io/'>Prof. Wenhan Luo</a>
 
 - <strong>*2023.8 - 2026.06*, University of Science and Technology of China (USTC)</strong>.
 
