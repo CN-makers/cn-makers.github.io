@@ -55,7 +55,7 @@ My research interests lie in interactive world model and controllable video gene
 </div>
 
   <p>
-    <a href="https://cn-makers.github.io/">Project</a> | <a href="https://cn-makers.github.io/">Paper</a> |  <a href="https://cn-makers.github.io/"><img src="https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
+    <a href="https://cn-makers.github.io/">Project</a> | <a href="https://cn-makers.github.io/">Paper</a> |  <a href="https://cn-makers.github.io/"><img src="https://cn-makers.github.io/" alt="GitHub stars" style="vertical-align:middle; margin-top:-3px;" /> </a>
 
   </p>
 
