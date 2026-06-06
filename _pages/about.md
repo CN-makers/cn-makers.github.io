@@ -25,7 +25,7 @@ My research interests lie in interactive world model controllable video generati
 
 # 🔥 News
 
-- *Jun, 2023*: &nbsp; 😎😎 I graduated from USTC!
+- *Jun, 2026*: &nbsp; 😎😎 I graduated from USTC!
 - *Jan, 2026*: &nbsp;🎉🎉 I am honored as and an Outstanding Graduate of Anhui Province (**TOP 2%**) and an Outstanding Graduate (**TOP 10%**) of USTC in 2026!
 - *Sep 18, 2025*: &nbsp;🎉🎉 Our paper Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing has been accepted by NIPS 2025!
 - *Aug, 2025*:  I joined ByteDance as a research intern mentored by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a>.
