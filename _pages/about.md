@@ -26,12 +26,13 @@ My research interests lie in interactive world model controllable video generati
 # 🔥 News
 
 - *Jun, 2026*: &nbsp; 😎😎 I graduated from USTC!
+- *Mar, 2026*: &nbsp; 🥳🥳 I went to Wuhan to attend the VALSE 2026!
 - *Jan, 2026*: &nbsp;🎉🎉 I am honored as and an Outstanding Graduate of Anhui Province (**TOP 2%**) and an Outstanding Graduate (**TOP 10%**) of USTC in 2026!
 - *Sep 18, 2025*: &nbsp;🎉🎉 Our paper Pro3D-Editor: A Progressive-Views Perspective for Consistent and Precise 3D Editing has been accepted by NIPS 2025!
 - *Aug, 2025*:  I joined ByteDance as a research intern mentored by <a href='https://scholar.google.com/citations?user=Ayl_VOEAAAAJ&hl=en'>Rongchang Xie</a> and <a href='https://scholar.google.com/citations?hl=en&user=YvgX3sUAAAAJ&view_op=list_works&sortby=pubdate'>Junwen Pan</a>.
 - *Jun 26, 2025*: &nbsp;🎉🎉 Our paper, "LongAnimation: Long Animation Generation with Dynamic Global-Local Memory" accepted by ICCV 2025!
 - *Mar 14, 2025*: &nbsp;🎉🎉 The paper of my co-author, Zhang Yiyang, and me, "PPT: A Minor Language News Recommendation Model via Cross-Lingual Preference Pattern Transfer", accepted by ACL **Main**!
-- *Jun, 2025*: &nbsp; 🥳🥳 I will go to Zhuhai, Guangdong Province to attend the VALSE 2025!
+- *Jun, 2025*: &nbsp; 🥳🥳 I went to Zhuhai, Guangdong Province to attend the VALSE 2025!
 - *Feb 27, 2025*: &nbsp;🎉🎉 Our paper Dynamic Diffusion Transformer for Accurate Image Generation  has  been accepted by CVPR 2025!
 - *Dec 10, 2024*: &nbsp;🎉🎉 Our paper customcontrast: a multilevel contrastive perspective for subject-driven text-to-image customization has  been accepted by AAAI 2025!
 - *Mar, 2024*: &nbsp; 🥳🥳 I went to Chongqing to attend the VALSE 2024!
